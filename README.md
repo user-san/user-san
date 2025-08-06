@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Santhosh
+# 👋🏼Hello, I'm Santhosh
 
 🎓 **B.E. in Computer Science Engineering – Class of 2025**  
 📍 Tiruppur, Tamil Nadu, India  
@@ -7,16 +7,18 @@ I'm a frontend developer with a strong focus on building clean, responsive, and 
 
 ---
 
-## 📄 Resume
+### 📜 Resume
 
-📥 [View My Resume (PDF)](https://github.com/user-san/your-resume-file-link)
+
+🔗->[Santhosh_D_Resume_React_Developer.pdf.pdf](https://github.com/user-attachments/files/21611756/Santhosh_D_Resume_React_Developer.pdf.pdf)
+
 
 ---
 
-## 📫 Get in Touch
+### 📫 Get in Touch
 
-- 📧 Email: [santhoshsd910@gmail.com](mailto:santhoshsd910@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/santhosh-javascript-dev](https://linkedin.com/in/santhosh-javascript-dev)  
+ 📧 Email -> [santhoshsd910@gmail.com](mailto:santhoshsd910@gmail.com)  
+ 💼 LinkedIn -> [linkedin.com/in/santhosh-javascript-dev](https://linkedin.com/in/santhosh-javascript-dev)  
 
 ---
 
