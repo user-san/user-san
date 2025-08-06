@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello, I'm Santhosh
 
-<!--
-**user-san/user-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.E. in Computer Science Engineering – Class of 2025**  
+📍 Tiruppur, Tamil Nadu, India  
 
-Here are some ideas to get you started:
+I'm a frontend developer with a strong focus on building clean, responsive, and user-friendly web applications using **React.js**, **JavaScript**, and modern UI technologies. I'm passionate about continuous learning and translating ideas into interactive digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📄 Resume
+
+📥 [View My Resume (PDF)](https://github.com/user-san/your-resume-file-link)
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: [santhoshsd910@gmail.com](mailto:santhoshsd910@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/santhosh-javascript-dev](https://linkedin.com/in/santhosh-javascript-dev)  
+
+---
+
+> *"Striving to build beautiful, accessible, and scalable front-end solutions."*
