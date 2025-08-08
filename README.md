@@ -3,7 +3,7 @@
 🎓 **B.E. in Computer Science Engineering – Class of 2025**  
 📍 Tiruppur, Tamil Nadu, India  
 
-I'm a frontend developer with a strong focus on building clean, responsive, and user-friendly web applications using **React.js**, **JavaScript**, and modern UI technologies. I'm passionate about continuous learning and translating ideas into interactive digital experiences.
+I’m a frontend developer passionate about creating clean, responsive, and user-friendly web applications using React.js, JavaScript, and modern UI technologies. Alongside my frontend expertise, I’m also expanding my skills in the MERN stack to become a full-stack developer. I thrive on continuous learning and enjoy turning ideas into engaging, interactive digital experiences.
 
 ---
 
