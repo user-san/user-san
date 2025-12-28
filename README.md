@@ -10,7 +10,7 @@ I’m a frontend developer passionate about creating clean, responsive, and user
 ### 📜 Resume
 
 
-🔗->---[Santhosh_D_Resume_React_Developer.pdf](https://github.com/user-attachments/files/22796964/Santhosh_D_Resume_React_Developer.pdf)
+🔗->---[Santhosh_D_Resume_React_Developer.pdf](https://github.com/user-attachments/files/24362505/Santhosh_D_Resume_React_Developer.pdf)
 
 
 ### 📫 Get in Touch
